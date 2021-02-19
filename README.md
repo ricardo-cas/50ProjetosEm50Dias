@@ -5,6 +5,7 @@
   - [1. Explore](#1-explore)
   - [2. Barra de Progresso](#2-barra-de-progresso)
   - [3. Menu Rotativo](#3-menu-rotativo)
+  - [4. Campo de Busca](#4-campo-de-busca)
 
 # 50ProjetosEm50Dias
 
@@ -34,3 +35,10 @@ Tela simples com botões de Avançar e Voltar, onde é apresentada uma barra de 
 Acesse aqui a [aplicação](#)
 
 ## 3. Menu Rotativo
+
+Projeto com menu, que mostra as opções de uma maneira rotativa. Acesse aqui a [aplicação](#).
+Site com imagens aleatórias, utilizando como fonte a API do [Unsplash](https://unsplash.com/).
+
+## 4. Campo de Busca
+
+Projeto onde apresenta o campo de busca com uma animação. Acesse [aqui](#)
