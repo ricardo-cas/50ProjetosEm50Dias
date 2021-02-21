@@ -16,3 +16,20 @@ body {
   margin: 0;
   overflow: hidden;
 }
+
+.container {
+  background-color: rgba(0, 0, 0, 0.4);
+  /* 20px top and bottom, 40px left and right */
+  padding: 20px 40px;
+  border-radius: 5px;
+}
+
+.container h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.container a {
+  text-decoration: none;
+  color: lightblue;
+}
