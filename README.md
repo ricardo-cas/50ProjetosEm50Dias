@@ -52,6 +52,9 @@ Projeto onde é realizada a apresentação de caixas conforme a pagina é rolada
 ## 6. Landing page de produto
 
 Projeto onde apresenta uma landing page com dois produtos para compra em tela dividida. Acesse [aqui](#)
+fonte das imagens [Unsplash](https://unsplash.com/):
+[Playstation](https://unsplash.com/photos/Xn4g9aHY4ao?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+[X-Box](https://unsplash.com/photos/358PNmUUV_c?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 <!--
 ## 4. Campo de Busca
