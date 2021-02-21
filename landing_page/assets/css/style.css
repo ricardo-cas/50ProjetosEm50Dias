@@ -8,6 +8,7 @@
   --right-btn-hover-color: rgba(28, 122, 28, 1);
   --hover-width: 75%;
   --other-width: 25%;
+  --speed: 1000ms;
 }
 
 * {
@@ -101,6 +102,13 @@ h1 {
 .split.right .btn:hover {
   background-color: var(--right-btn-hover-color);
   border-color: var(--right-btn-hover-color);
+}
+
+.split.right,
+.split.left,
+.split.right::before,
+.split.left::before {
+  transition: var(--speed) ease-in-out;
 }
 
 /* quando posicionar o mouse encima */
