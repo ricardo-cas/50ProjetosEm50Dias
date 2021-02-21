@@ -7,6 +7,7 @@
   - [3. Menu Rotativo](#3-menu-rotativo)
   - [4. Campo de Busca](#4-campo-de-busca)
   - [5. Animação ao rolar a página](#5-animação-ao-rolar-a-página)
+  - [6. Landing page de produto](#6-landing-page-de-produto)
 
 # 50ProjetosEm50Dias
 
@@ -47,6 +48,10 @@ Projeto onde apresenta o campo de busca com uma animação. Acesse [aqui](#)
 ## 5. Animação ao rolar a página
 
 Projeto onde é realizada a apresentação de caixas conforme a pagina é rolada para baixo. Acesse [aqui](#)
+
+## 6. Landing page de produto
+
+Projeto onde apresenta uma landing page com dois produtos para compra em tela dividida. Acesse [aqui](#)
 
 <!--
 ## 4. Campo de Busca
