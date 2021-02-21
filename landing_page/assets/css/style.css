@@ -60,3 +60,13 @@ body {
   height: 100%;
   background-color: var(--right-bg-color);
 }
+
+h1 {
+  font-size: 4rem;
+  color: #fff;
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
