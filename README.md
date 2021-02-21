@@ -1,6 +1,5 @@
-- [50ProjetosEm50Dias](#50projetosem50dias)
-  - [Objetivo](#objetivo)
-    - [Tecnologias:](#tecnologias)
+- [Objetivo](#objetivo)
+  - [Tecnologias:](#tecnologias)
 - [Lista de projetos:](#lista-de-projetos)
   - [1. Explore](#1-explore)
   - [2. Barra de Progresso](#2-barra-de-progresso)
@@ -8,14 +7,13 @@
   - [4. Campo de Busca](#4-campo-de-busca)
   - [5. Animação ao rolar a página](#5-animação-ao-rolar-a-página)
   - [6. Landing page de produto](#6-landing-page-de-produto)
+  - [7. Formulário de login](#7-formulário-de-login)
 
-# 50ProjetosEm50Dias
-
-## Objetivo
+# Objetivo
 
 Repositório para armazenar os códigos de 50 projetos
 
-### Tecnologias:
+## Tecnologias:
 
 As tecnologias deste projeto são:
 
@@ -55,6 +53,10 @@ Projeto onde apresenta uma landing page com dois produtos para compra em tela di
 fonte das imagens [Unsplash](https://unsplash.com/):
 [Playstation](https://unsplash.com/photos/Xn4g9aHY4ao?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 [X-Box](https://unsplash.com/photos/358PNmUUV_c?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+
+## 7. Formulário de login
+
+Projeto onde apresenta um formulário de login, onde as letras de usuário e senha apresentam animação de onda quando o focus está nestes campos. Acesse [aqui](#)
 
 <!--
 ## 4. Campo de Busca
