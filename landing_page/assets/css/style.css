@@ -21,3 +21,10 @@ body {
   height: 100%;
   background: var(--bg-color);
 }
+
+.split {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+}
