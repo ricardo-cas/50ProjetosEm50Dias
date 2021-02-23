@@ -8,6 +8,8 @@
   - [5. Animação ao rolar a página](#5-animação-ao-rolar-a-página)
   - [6. Landing page de produto](#6-landing-page-de-produto)
   - [7. Formulário de login](#7-formulário-de-login)
+  - [8. Barra de músicas](#8-barra-de-músicas)
+  - [9. Gerador de Piadas](#9-gerador-de-piadas)
 
 # Objetivo
 
@@ -57,6 +59,14 @@ fonte das imagens [Unsplash](https://unsplash.com/):
 ## 7. Formulário de login
 
 Projeto onde apresenta um formulário de login, onde as letras de usuário e senha apresentam animação de onda quando o focus está nestes campos. Acesse [aqui](#)
+
+## 8. Barra de músicas
+
+Projeto onde é apresentado botões para tocar alguns sons. Acesse [aqui](#)
+
+## 9. Gerador de Piadas
+
+Projeto onde uma caixa com piadas aleatórias. Acesse [aqui](#)
 
 <!--
 ## 4. Campo de Busca
