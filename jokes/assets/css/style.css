@@ -50,6 +50,7 @@ h3 {
   line-height: 40px;
   margin: 50px auto;
   max-width: 600px;
+  color: var(--text-color);
 }
 
 .btn {
